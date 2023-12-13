@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **cipulan/cipulan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,5 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything 24x7
 - 📫 How to reach me: you can email me or comment on my github
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: Diet
